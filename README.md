@@ -12,3 +12,4 @@ Some requested exercises:
 - Bisecting
 - git flow
 - Trunk based develoment
+- Pull requests
