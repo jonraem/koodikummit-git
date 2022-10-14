@@ -13,4 +13,4 @@ Some requested exercises:
 - git flow
 - Trunk based develoment
 - Pull requests
-- Funny examples
+- Useful examples
